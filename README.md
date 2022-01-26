@@ -1,0 +1,2 @@
+# Diabetes-Prediction-using-Machine-Learning-Algorithms
+Various machine learning algorithms are applied on the dataset and the classification has been done Using various algorithms of which Logistic Regression gives the highest accuracy of 96%. It is clear that the model improves accuracy and precision of diabetes. Prediction with this dataset compared to existing dataset. Further this work can be extended to find how likely non diabetic people can have diabetes in next few years.
